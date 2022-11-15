@@ -1,1 +1,1 @@
-# Masked-Autoencoder-based-Channel-Prediction-for-Non-Stationary-Channel
+# Autoencoder-based Channel Estimator
